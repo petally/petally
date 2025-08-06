@@ -1,7 +1,7 @@
 <img src="https://github.com/Petally/Petally/blob/main/readmebg.png?raw=true">
 
 Hello, I'm petally (also known as levs), and I like programming.
-Things that interest me include physics, and multiplayer in games.
+Things that interest me include physics & multiplayer in games.
 My big inspirations are:
 - Cortex Command
 - Noita
