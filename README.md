@@ -7,6 +7,7 @@ My big inspirations are:
 - Noita
 - Worms
 - Liero
+- DAN-BALL
 
-Currently, I'm working on learning some web development stuff. After I'm done with that, I think I'll try to dive into some C programming.
+Currently, I am learning C.
 I also develop on Roblox.
